@@ -6,7 +6,7 @@ Este projeto tem como objetivo praticar o uso de Git e GitHub, aprendendo sobre 
 
 ##  Integrantes:
 - Luiz Henrique Bonfim Dos Santos (Matrícula: 202503758981)
-- João Victor Monteiro de Sousa
+- João Victor Monteiro de Sousa (Matrícula: 202508429551)
 - João Victor Alves dos Santos (Matrícula: XXXXXXX)
 - João Murilo cunha de Sousa (Matrícula: XXXXXXX)
 - Maria Eduarda Gomes dos Santos
