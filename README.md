@@ -14,3 +14,7 @@ Este projeto tem como objetivo praticar o uso de Git e GitHub, aprendendo sobre 
 1. Clone o repositório:
    ```bash
     https://github.com/LuizHenri01/ara0097-gc-git-grupo00.git
+
+2. Acesse a pasta do projeto:
+   cd ara0097-gc-git-grupo00
+
